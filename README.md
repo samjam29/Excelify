@@ -12,6 +12,7 @@ This Excel project is designed to provide comprehensive sales and finance perfor
 - **Importance of Finance Data Analysis:** Benchmarking against industry peers, historical data, and establishing the foundation for budgeting and forecasting.
 
 ### Sales Report
+#(report)[https://github.com/samjam29/Excelify/blob/main/sales/Sales_report.xlsx]
 - **Customer Performance Report:** Assess customer performance metrics to optimize relationships and sales strategies.
 - **Market Performance Comparison:** Analyze market performance against sales targets to identify growth opportunities and areas for improvement.
 - **Sales Analytics Purpose:** Monitor and evaluate sales activities to drive informed decision-making processes.
