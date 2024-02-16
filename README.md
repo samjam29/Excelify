@@ -11,7 +11,7 @@ This Excel project is designed to provide comprehensive sales and finance perfor
 - **Finance Analytics Purpose:** Evaluate financial performance metrics to aid decision-making and foster effective communication with stakeholders.
 - **Importance of Finance Data Analysis:** Benchmarking against industry peers, historical data, and establishing the foundation for budgeting and forecasting.
 
-### [Sales Report](https://github.com/samjam29/Excelify/blob/main/sales/Sales_report.xlsx)
+### Sales Report
 
 - **Customer Performance Report:** Assess customer performance metrics to optimize relationships and sales strategies.
 - **Market Performance Comparison:** Analyze market performance against sales targets to identify growth opportunities and areas for improvement.
