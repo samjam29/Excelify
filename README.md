@@ -23,6 +23,8 @@ This Excel project is designed to provide comprehensive sales and finance perfor
 - **Sales Analytics Purpose:** Monitor and evaluate sales activities to drive informed decision-making processes.
 - **Importance of Sales Data Analysis:** Unveil sales patterns, track performance indicators, and identify expansion opportunities.
 
+ ![sales1](https://github.com/samjam29/Excelify/assets/67960348/4531d21f-863d-48f4-ba54-3694de586bb3)
+
 ## Reports' Role
 - **Finance Report:** Align financial planning with strategic objectives and instill confidence in the organization's financial outlook.
 - **Sales Report:** Determine effective customer discounts, facilitate negotiations, and identify expansion opportunities in potential markets.
