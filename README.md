@@ -10,6 +10,11 @@ This Excel project is designed to provide comprehensive sales and finance perfor
 - **Profit and Loss (P&L) Reports:** Generate detailed P&L reports by fiscal years and months, categorized by markets.
 - **Finance Analytics Purpose:** Evaluate financial performance metrics to aid decision-making and foster effective communication with stakeholders.
 - **Importance of Finance Data Analysis:** Benchmarking against industry peers, historical data, and establishing the foundation for budgeting and forecasting.
+  
+![finance 1](https://github.com/samjam29/Excelify/blob/main/finance/1.pngraw=true)
+
+![finance 2](https://github.com/samjam29/Excelify/blob/main/finance/2.pngraw=true)
+
 
 ### Sales Report
 
