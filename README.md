@@ -11,9 +11,9 @@ This Excel project is designed to provide comprehensive sales and finance perfor
 - **Finance Analytics Purpose:** Evaluate financial performance metrics to aid decision-making and foster effective communication with stakeholders.
 - **Importance of Finance Data Analysis:** Benchmarking against industry peers, historical data, and establishing the foundation for budgeting and forecasting.
   
-![finance 1](https://github.com/samjam29/Excelify/blob/main/finance/1.pngraw=true)
-
-![finance 2](https://github.com/samjam29/Excelify/blob/main/finance/2.pngraw=true)
+![1](https://github.com/samjam29/Excelify/assets/67960348/6ba59f20-4fff-465f-bbea-81d4f8bde8dd)
+![2](https://github.com/samjam29/Excelify/assets/67960348/a4c70055-a7da-4f51-ba94-79f97fc53c5d)
+![3](https://github.com/samjam29/Excelify/assets/67960348/ccf82778-a3c7-4211-8799-650c115d02aa)
 
 
 ### Sales Report
@@ -24,6 +24,8 @@ This Excel project is designed to provide comprehensive sales and finance perfor
 - **Importance of Sales Data Analysis:** Unveil sales patterns, track performance indicators, and identify expansion opportunities.
 
  ![sales1](https://github.com/samjam29/Excelify/assets/67960348/4531d21f-863d-48f4-ba54-3694de586bb3)
+ ![sales2](https://github.com/samjam29/Excelify/assets/67960348/60f33360-48f2-47ca-ad32-65c438844a41)
+
 
 ## Reports' Role
 - **Finance Report:** Align financial planning with strategic objectives and instill confidence in the organization's financial outlook.
